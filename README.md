@@ -1,5 +1,14 @@
 # Dairy Management System
 
+![HTML](https://img.shields.io/badge/Frontend-HTML-orange)
+![CSS](https://img.shields.io/badge/Frontend-CSS-blue)
+![JavaScript](https://img.shields.io/badge/Frontend-JavaScript-yellow)
+![PHP](https://img.shields.io/badge/Backend-PHP-purple)
+![MySQL](https://img.shields.io/badge/Database-MySQL-informational)
+![XAMPP](https://img.shields.io/badge/Server-XAMPP-red)
+![MIT License](https://img.shields.io/badge/License-MIT-green)
+![Project Status](https://img.shields.io/badge/Status-Local%20Only-lightgrey)
+
 ## Overview
 The **Dairy Management System** is a web-based platform designed to streamline the process of dairy farmer registration and management. Built using modern web technologies, this system ensures efficient data handling and user authentication.
 
@@ -11,10 +20,14 @@ The **Dairy Management System** is a web-based platform designed to streamline t
 - Easy-to-use interface for dairy management
 
 ## Tools & Technologies Used
-- **Frontend:** HTML, CSS, JavaScript
-- **Backend:** PHP
-- **Database:** MySQL
-- **Server:** XAMPP (Apache, MySQL, PHP, and Perl)
+| Technology  | Description |
+|------------|------------|
+| **Frontend** | HTML, CSS, JavaScript |
+| **Backend**  | PHP |
+| **Database** | MySQL |
+| **Server**   | XAMPP |
+| **License**  | MIT |
+| **Status**   | Local Only (Runs on Laptop) |
 
 ## Installation & Setup
 Since the project is not live and runs locally, follow these steps to set up the system on your laptop:
