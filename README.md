@@ -9,18 +9,32 @@
 ![MIT License](https://img.shields.io/badge/License-MIT-green)
 ![Project Status](https://img.shields.io/badge/Status-Local%20Only-lightgrey)
 
-## Overview
+---
+
+## 🚀 Overview
 The **Dairy Management System** is a web-based platform designed to streamline the process of dairy farmer registration and management. Built using modern web technologies, this system ensures efficient data handling and user authentication.
 
-## Features
-- User registration and login system
-- Secure authentication mechanism
-- Farmer profile management
-- Responsive UI for seamless user experience
-- Easy-to-use interface for dairy management
+![Dairy Management Banner](https://via.placeholder.com/800x300?text=Dairy+Management+System)
 
-## Tools & Technologies Used
-| Technology  | Description |
+## 🌟 Features
+✅ User registration and login system  
+✅ Secure authentication mechanism  
+✅ Farmer profile management  
+✅ Responsive UI for seamless user experience  
+✅ Easy-to-use interface for dairy management  
+
+## 🖼️ Project Screenshots
+### 📌 Login Page
+![Login Page](templates/Login_Page.png)
+
+### 📌 Registration Page
+![Registration Page](templates/Registeration_page.png)
+
+### 📌 Dashboard View
+![Dashboard](templates/Dashboard_page.png)
+
+## 🛠 Tools & Technologies Used
+| 🏗 Technology  | 📝 Description |
 |------------|------------|
 | **Frontend** | HTML, CSS, JavaScript |
 | **Backend**  | PHP |
@@ -29,7 +43,7 @@ The **Dairy Management System** is a web-based platform designed to streamline t
 | **License**  | MIT |
 | **Status**   | Local Only (Runs on Laptop) |
 
-## Installation & Setup
+## ⚙️ Installation & Setup
 Since the project is not live and runs locally, follow these steps to set up the system on your laptop:
 
 1. **Install XAMPP:**
@@ -54,15 +68,15 @@ Since the project is not live and runs locally, follow these steps to set up the
 6. **Run the Application:**
    - Open a web browser and go to `http://localhost/MP-1-Dairy-Management-System--Project/`.
 
-## Usage
+## 🎯 Usage
 - Register as a farmer or administrator.
 - Log in to access the management dashboard.
 - Manage dairy-related data efficiently.
 
-## License
+## 📜 License
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
 
-## Contact
+## 📩 Contact
 For any inquiries or contributions, feel free to reach out:
 - **Developer:** Chinmay Keripale
 - **GitHub:** [Chinmay3775](https://github.com/Chinmay3775)
