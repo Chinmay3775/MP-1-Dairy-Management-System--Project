@@ -14,7 +14,7 @@
 ## 🚀 Overview
 The **Dairy Management System** is a web-based platform designed to streamline the process of dairy farmer registration and management. Built using modern web technologies, this system ensures efficient data handling and user authentication.
 
- <img align= "right" alt="coding" width="350" src="https://gifdb.com/images/high/cute-cow-animation-4ynlh9aqttv9umvb.webp">
+ <img align= "center" alt="coding" width="100" src="https://gifdb.com/images/high/cute-cow-animation-4ynlh9aqttv9umvb.webp">
 ## 🌟 Features
 ✅ User registration and login system  
 ✅ Secure authentication mechanism  
